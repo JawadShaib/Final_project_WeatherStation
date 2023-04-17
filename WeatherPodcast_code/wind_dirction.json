@@ -1,0 +1,26 @@
+
+{
+    "vin": 3.3,
+    "vdivider": 4700,   
+    "directions": [
+        { "dir": "N",   "angle": 0.0,   "ohms": 33000,"adc": 0.4},
+        { "dir": "NNE", "angle": 22.5,  "ohms": 6570,"adc":1.4},
+        { "dir": "NE",  "angle": 45.0,  "ohms": 8200,"adc":1.2},
+        { "dir": "ENE", "angle": 67.5,  "ohms": 891,"adc":2.8},
+        { "dir": "E",   "angle": 90.0,  "ohms": 1000,"adc":2.7 },
+        { "dir": "ESE", "angle": 112.5, "ohms": 688,"adc":2.9},
+        { "dir": "SE",  "angle": 135.0, "ohms": 2200 ,"adc":2.2},
+        { "dir": "SSE", "angle": 157.5, "ohms": 1410 ,"adc":2.5},
+        { "dir": "S",   "angle": 180.0, "ohms": 3900 ,"adc":1.8},
+        { "dir": "SSW", "angle": 202.5, "ohms": 3140 ,"adc":2.0},
+        { "dir": "SW",  "angle": 225.0, "ohms": 16000 ,"adc":0.7},
+        { "dir": "WSW", "angle": 247.5, "ohms": 14120 ,"adc":0.8},
+        { "dir": "W",   "angle": 270.0, "ohms": 120000 ,"adc":0.1},
+        { "dir": "WNW", "angle": 292.5, "ohms": 42120 ,"adc":0.3},
+        { "dir": "NW",  "angle": 315.0, "ohms": 64900 ,"adc":0.2},
+        { "dir": "NNW", "angle": 337.5, "ohms": 21880 ,"adc":0.6}
+    ]
+    
+    
+}
+
